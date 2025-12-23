@@ -22,8 +22,8 @@ regulares y un flujo básico de integración continua con **SonarCloud** sobre W
 │      ├─ Ej2.py              # Matrículas españolas con prefijo opcional
 │      ├─ Ej3.py              # Conversión de fechas YYYY-MM-DD → DD.MM.YYYY
 │      ├─ Ej4.py              # Correos URJC (alumnos/profesores)
-│      ├─ Ej5.2.py            # Direcciones postales (calle, número, CP)
-│      └─ Ej6.2.py            # Parsing de líneas de log a formato estructurado
+│      ├─ Ej5.py            # Direcciones postales (calle, número, CP)
+│      └─ Ej6.py            # Parsing de líneas de log a formato estructurado
 └─ docs/
    └─ Practica1_MDS.pdf       # Memoria completa de la práctica 
 ```
